@@ -10,7 +10,7 @@ _I am interested in studying about:_
   * **🛰Embedded Systems** 
   * **🤖Automations**
 
-💻 My programming languages are:
+💻 Programming languages:
   * **Python**
   * **C/C++**
   * **Arduino**
