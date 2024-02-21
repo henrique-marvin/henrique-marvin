@@ -12,7 +12,8 @@ _I am interested in studying about:_
 
 💻 My programming languages are:
   * **Python**
-  * **C++**
+  * **C/C++**
+  * **Arduino**
 
 📧 How to contact me:
 * e-mail: [henrique.marvinss@gmail.com](henrique.marvinss@gmail.com)
