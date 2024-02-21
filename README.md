@@ -1,16 +1,21 @@
 ### Hi there 👋
+### I am Henrique Marvin
 
-<!--
-**henrique-marvin/henrique-marvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙ I am currently a **Mechatronic Enginnering** Student at PUCPR - Curitiba
 
-Here are some ideas to get you started:
+👨‍💻 I am a **Computer Technician**, from IFRO - Cacoal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_I am interested in studying about:_ 
+  * **👾Artificial Intelligence** 
+  * **🛰Embedded Systems** 
+  * **🤖Automations**
+
+💻 My programming languages are:
+  * **Python**
+  * **C++**
+
+📧 How to contact me:
+* e-mail: [henrique.marvinss@gmail.com](henrique.marvinss@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/henrique-marvin-souza-da-silva-233939180/](https://www.linkedin.com/in/henrique-marvin-souza-da-silva-233939180/)
+
+
