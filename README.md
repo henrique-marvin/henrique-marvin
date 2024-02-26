@@ -6,7 +6,7 @@
 👨‍💻 I am a **Computer Technician**, from IFRO - Cacoal
 
 _I am interested in studying about:_ 
-  * **👾Artificial Intelligence** 
+  * **👾Artificial Intelligence and Machine Learning** 
   * **🛰Embedded Systems** 
   * **🤖Automations**
 
